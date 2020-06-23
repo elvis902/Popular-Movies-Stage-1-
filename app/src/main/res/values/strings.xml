@@ -10,5 +10,5 @@
 
     <string name="Error_NoMovieData">No Movie data</string>
 
-    <string name="api_key">487c5279361a4056bb7f481fcf26a56b</string>
+    <string name="api_key">"Api Key"</string>
 </resources>
